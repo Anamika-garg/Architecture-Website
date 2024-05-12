@@ -13,7 +13,7 @@ const Contact = () => {
               <div className="formss">
 
                 <div className="fN yo">
-                  <label htmlFor=""> Full Name</label>
+                  <label htmlFor=""> Full Name</label><br></br>
                   <input className="fullName" type="text" ></input>
                 </div>
 
@@ -23,7 +23,7 @@ const Contact = () => {
                 </div>
 
                 <div className="M yo">
-                <label htmlFor="">Message</label>
+                <label htmlFor="">Message</label><br></br>
                 <input className="Msg" type="text" ></input>
                 </div>
 
